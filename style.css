@@ -170,3 +170,122 @@ body{
 .flag-name{
     color: black;
 }
+
+
+footer{
+    width: 100%;
+    background: rgb(248, 248, 248);
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+}
+.footer{
+    padding-top: 4.8rem;
+    padding-right: 2.4rem;
+    padding-bottom: 2.2rem;
+    padding-left: 2.4rem;
+}
+.foot-logo{
+    padding-left: 6%;
+    width: 10rem;
+}
+.foot-header{
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    width: 100%;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    margin-bottom: 4rem;
+}
+.footer-nav{
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+}
+.about{
+    max-width: 18.3333%;
+    padding: 0px;
+}
+h6{
+    font-size: 1.4rem;
+    letter-spacing: 0.2rem;
+    text-transform: uppercase;
+    font-weight: 500;
+    margin: 0px 0px 1.2rem;
+}
+.icon{
+    width:100px;
+    position: relative;
+    float: left;
+}
+a{
+    text-decoration: none;
+}
+
+.about{
+    max-width: 18.3333%;
+    padding: 0px;
+    position: relative;
+    width: 100%;
+    -webkit-box-flex: 0;
+    flex-grow: 0;
+    flex-shrink: 0;
+}
+.zomaverse{
+    position: relative;
+    width: 100%;
+    -webkit-box-flex: 0;
+    flex-grow: 0;
+    flex-shrink: 0;
+    max-width: 19.1667%;
+    padding: 0px;
+}
+.two-div{
+    position: relative;
+    width: 100%;
+    -webkit-box-flex: 0;
+    flex-grow: 0;
+    flex-shrink: 0;
+    max-width: 25%;
+    padding: 0px;
+}
+
+.learn-more{
+    position: relative;
+    width: 100%;
+    -webkit-box-flex: 0;
+    flex-grow: 0;
+    flex-shrink: 0;
+    max-width: 16.6667%;
+    padding: 0px;
+}
+.social-media{
+    position: relative;
+    width: 100%;
+    -webkit-box-flex: 0;
+    flex-grow: 0;
+    flex-shrink: 0;
+    max-width: 18.3333%;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+
+}
+.conclusion{
+    justify-content: center;
+    font-size: 1.3rem;
+    color: rgb(79, 79, 79);
+    line-height: 1.7rem;
+    margin-top: 2.3rem;
+}
+.test{
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+}
+
+.test{
+    width: 100%;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+}
